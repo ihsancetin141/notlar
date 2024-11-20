@@ -1,0 +1,2 @@
+# notlar
+this is notlar
